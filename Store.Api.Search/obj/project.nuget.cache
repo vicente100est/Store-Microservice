@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "HaB9OUZkYzQMiO6L3kf+0sQ7U8/CmGwR/eqqPKnVp4tFEK5UTs6g6N77RhnXQfxAK4TLiSWp/zsteUeH0DYQ7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicen\\Desktop\\lab\\Sistemas Distribuidos\\Azure Service Fabric Mesh\\azure-service-fabric-mesh-esencial\\Store\\Store.Api.Search\\Store.Api.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.2\\microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.2\\microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.2\\microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.2\\microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.http\\3.1.2\\microsoft.extensions.http.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.2\\microsoft.extensions.http.polly.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.logging\\3.1.2\\microsoft.extensions.logging.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.2\\microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.options\\3.1.2\\microsoft.extensions.options.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\vicen\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

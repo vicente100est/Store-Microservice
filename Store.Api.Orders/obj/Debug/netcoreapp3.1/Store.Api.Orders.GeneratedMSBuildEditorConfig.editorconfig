@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Store.Api.Orders
+build_property.ProjectDir = C:\Users\vicen\Desktop\lab\Sistemas Distribuidos\Azure Service Fabric Mesh\azure-service-fabric-mesh-esencial\Store\Store.Api.Orders\
